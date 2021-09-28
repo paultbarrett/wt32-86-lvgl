@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/GIT/wt32-86-lvgl/build/CMakeFiles/bootloader
+C:/GIT/wt32-86-lvgl/build/CMakeFiles/bootloader.rule
+C:/GIT/wt32-86-lvgl/build/CMakeFiles/bootloader-complete.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/GIT/wt32-86-lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
